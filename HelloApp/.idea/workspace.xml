@@ -22,9 +22,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/UC6_HelloApp.java.js" root0="SKIP_INSPECTION" />
+  </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5,
@@ -73,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1773821903200</updated>
       <workItem from="1773821916795" duration="813000" />
-      <workItem from="1774424738081" duration="965000" />
+      <workItem from="1774424738081" duration="1760000" />
     </task>
     <servers />
   </component>
